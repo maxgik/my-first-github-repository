@@ -5,4 +5,4 @@ This line modified manually during conflict resolution
 
 New line was added locally
 
-Edit in the feature-2 branch
+Edit in the feature-2 branch for the second time
